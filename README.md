@@ -6,7 +6,7 @@
 
 The awesome services of AWS, Azure, GCP, Ali Cloud, Tencent Cloud and Huawei Cloud
 
-[Cloud-Battle-of-Five-Armies](Cloud-Battle-of-Five-Armies)
+[Cloud-Battle-of-Five-Armies](https://github.com/lluxury/Cloud-Battle-of-Five-Armies/blob/main/Cloud-Battle-of-Five-Armies.md)
 
 
 
